@@ -1,0 +1,514 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /* header start  */
+    .n_form {
+        margin-bottom: 20px;
+    }
+
+    /* header end  */
+    /* slider start  */
+    .logo {
+        font-size: 25px;
+    }
+
+    .s_text {
+        text-align: center;
+        padding: 150px 0 50px;
+    }
+
+    .s_text h1 {
+        font-size: 27px;
+    }
+
+    .s_text p {
+        padding: 20px 0 30px;
+        line-height: 26px;
+    }
+
+    /* slider end  */
+    /* services start  */
+    .services {
+        padding-bottom: 60px;
+    }
+
+    .c_h1 {
+        font-size: 25px;
+    }
+
+    .services_p {
+        padding-top: 20px;
+        padding-bottom: 16px;
+    }
+
+    /* services end  */
+    /* about start  */
+    .about {
+        padding-bottom: 60px;
+    }
+
+    /* about end  */
+    /* project start  */
+    .project {
+        padding-bottom: 60px;
+    }
+
+    .project_h1 {
+        padding-bottom: 40px;
+    }
+
+    .project_text ul li {
+        margin-right: 0px !important;
+    }
+
+    .project_item i {
+        font-size: 40px;
+        top: 100px;
+        left: 130px;
+    }
+
+
+    /* project end  */
+    /* support start  */
+    .support {
+        padding-bottom: 60px;
+    }
+
+
+    .support_h1 {
+        padding-bottom: 40px;
+    }
+
+    .support_card {
+        text-align: center;
+    }
+
+    .support_card p {
+        padding: 20px 0;
+    }
+
+    /* support end  */
+
+    /* team start  */
+    .team {
+        padding-bottom: 60px;
+    }
+
+    .team_h1 {
+        padding-bottom: 16px;
+    }
+
+    /* team end  */
+    /* pricing start  */
+    .pricing {
+        padding-bottom: 60px;
+    }
+
+    /* pricing end  */
+    /* template start  */
+    .template {
+        margin-bottom: 60px;
+        font-size: 16px;
+    }
+
+    .template_btn {
+        margin-top: 20px;
+    }
+
+    /* template end  */
+    /* testimonial start  */
+    .testimonial {
+        margin-bottom: 60px;
+    }
+
+    .testimonial_img {
+        padding-bottom: 15px;
+    }
+
+    /* testimonial end  */
+    /* contact start  */
+    .contact {
+        padding-bottom: 60px;
+    }
+
+    .form {
+        padding: 40px 30px 0;
+    }
+
+    .form_h1 {
+        left: 24%;
+    }
+
+    /* contact end  */
+
+    /* footer start  */
+    .footer_p {
+        padding: 20px 0;
+    }
+
+    .footer_links {
+        padding-bottom: 60px;
+    }
+
+    .footer_links ul li {
+        margin-right: 10px !important;
+    }
+
+    .footer_links ul li a i {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+    }
+
+    .f_padding {
+        padding: 30px 0;
+    }
+
+    .f_items {
+        padding-top: 10px;
+    }
+
+    .f_text p {
+        font-size: 15px;
+    }
+
+    .f_items ul li {
+        margin-right: 5px !important;
+    }
+
+    .f_items ul li a {
+        font-size: 15px;
+    }
+
+    /* footer end  */
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* header start  */
+    .n_form {
+        margin-bottom: 20px;
+    }
+
+    /* header end  */
+    /* slider start  */
+    .s_text {
+        text-align: center;
+        padding: 150px 0 50px;
+    }
+
+    .s_text h1 {
+        font-size: 35px;
+    }
+
+    .s_text p {
+        padding: 20px 0 30px;
+        line-height: 26px;
+    }
+
+    /* slider end  */
+
+    /* services start  */
+    .services {
+        padding-bottom: 60px;
+    }
+
+    .c_h1 {
+        font-size: 25px;
+    }
+
+    .services_p {
+        padding-top: 20px;
+        padding-bottom: 16px;
+    }
+
+    /* services end  */
+
+    /* about start  */
+    .about {
+        padding-bottom: 60px;
+    }
+
+    /* about end  */
+    /* project start  */
+    .project {
+        padding-bottom: 60px;
+    }
+
+    .project_h1 {
+        padding-bottom: 40px;
+    }
+
+    .project_text ul li {
+        margin-right: 0px !important;
+    }
+
+    .project_item i {
+        font-size: 40px;
+        top: 70px;
+        left: 100px;
+    }
+
+
+    /* project end  */
+    /* support start  */
+    .support {
+        padding-bottom: 60px;
+    }
+
+    .support_h1 {
+        padding-bottom: 40px;
+    }
+
+    .support_card {
+        text-align: center;
+    }
+
+    .support_card p {
+        padding: 20px 0;
+    }
+
+    /* support end  */
+    /* team start  */
+    .team {
+        padding-bottom: 60px;
+    }
+
+    .team_h1 {
+        padding-bottom: 16px;
+    }
+
+    /* team end  */
+    /* pricing start  */
+    .pricing {
+        padding-bottom: 60px;
+    }
+
+    /* pricing end  */
+    /* template start  */
+    .template {
+        margin-bottom: 60px;
+        font-size: 16px;
+    }
+
+    /* template end  */
+    /* testimonial start  */
+
+    .testimonial {
+        margin-bottom: 60px;
+        padding: 50px;
+    }
+
+    .testimonial_img {
+        padding-bottom: 15px;
+    }
+
+    /* testimonial end  */
+    /* contact start  */
+    .contact {
+        padding-bottom: 60px;
+    }
+
+    .form {
+        padding: 40px 70px 0;
+    }
+
+    .form_h1 {
+        left: 36%;
+    }
+
+    /* contact end  */
+    /* footer start  */
+    .footer_links {
+        padding-bottom: 60px;
+    }
+
+    .footer_p {
+        padding: 30px 0;
+    }
+
+    .f_items {
+        padding-top: 20px;
+    }
+
+    /* footer end  */
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* header start  */
+    .n_form {
+        margin-bottom: 20px;
+    }
+
+    /* header end  */
+    /* slider start  */
+    .s_text {
+        padding: 180px 50px 80px 0;
+    }
+
+    .s_text h1 {
+        font-size: 50px;
+    }
+
+    /* slider end  */
+
+    /* services start  */
+    .services {
+        padding-bottom: 80px;
+    }
+
+    .services_p {
+        padding-bottom: 36px;
+    }
+
+    .s_card {
+        margin-top: 24px;
+
+    }
+
+    /* services end  */
+    /* about start  */
+    .about {
+        padding-bottom: 80px;
+    }
+
+    /* about end  */
+    /* project start  */
+    .project_item {
+        /* margin: 40px 150px 0; */
+    }
+
+    .project_item i {
+        top: 105px;
+        left: 139px;
+    }
+
+    .project {
+        padding-bottom: 80px;
+    }
+
+    .project_h1 {
+        padding-bottom: 60px;
+    }
+
+
+    /* project end  */
+    /* support start  */
+    .support {
+        padding-bottom: 80px;
+    }
+
+    .support_h1 {
+        padding-bottom: 60px;
+    }
+
+    /* support end  */
+    /* team start  */
+    .team {
+        padding-bottom: 80px;
+    }
+
+    .team_h1 {
+        padding-bottom: 36px;
+    }
+
+    /* team end  */
+    /* pricing start  */
+    .pricing {
+        padding-bottom: 80px;
+    }
+
+    /* pricing end  */
+    /* template start  */
+    .template {
+        margin-bottom: 80px;
+    }
+
+    /* template end  */
+    /* testimonial start  */
+    .testimonial {
+        margin-bottom: 80px;
+        padding: 0 150px;
+    }
+
+    .testimonial_img {
+        padding-bottom: 15px;
+    }
+
+    /* testimonial end  */
+    /* contact start  */
+    .contact {
+        padding-bottom: 80px;
+    }
+
+    .form {
+        padding: 60px 70px 0;
+    }
+
+    .form_h1 {
+        left: 38%;
+    }
+
+    /* contact end  */
+    /* footer start  */
+    .footer_links {
+        padding-bottom: 80px;
+    }
+
+    .f_items {
+        padding-top: 20px;
+    }
+
+    /* footer end  */
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* about start  */
+    .p_1 {
+        padding: 15px 0;
+    }
+
+    .p_2 {
+        padding-bottom: 20px;
+    }
+
+    /* about end  */
+    /* team start  */
+    .team_text {
+        padding: 15px 0 15px 5px;
+
+    }
+
+    /* team end  */
+
+    /* project start  */
+    .project_item i {
+        top: 93px;
+        left: 115px;
+    }
+
+    /* project end  */
+}
+
+/* Extra large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/* Extra Extra  large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+    /* project start  */
+    .project_item i {
+        top: 145px;
+        left: 175px;
+    }
+
+    /* project end  */
+}
